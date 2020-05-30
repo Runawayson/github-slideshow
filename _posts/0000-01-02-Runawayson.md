@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Look out honey, 'cause I'm using technology!"
 
 ---
 
